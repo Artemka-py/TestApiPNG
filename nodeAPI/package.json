@@ -1,0 +1,20 @@
+{
+  "name": "nodeapi",
+  "version": "0.0.1",
+  "description": "testing speed the node api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Artem Lytkin",
+  "license": "MIT",
+  "dependencies": {
+    "artillery": "^1.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
